@@ -10,9 +10,9 @@ class Program
     {
         // soru1();
         
-        //soru2();
+        // soru2();
 
-        soru3();
+        // soru3();
     }
 
     private static void soru1()
@@ -164,7 +164,7 @@ class Program
         Console.WriteLine("Toplam {0} adet sesli harf bulunuyor bunlar; ",sayac);
 
         Console.WriteLine();
-        
+
         foreach (var item in sesli)
         {
             Console.WriteLine(item);
